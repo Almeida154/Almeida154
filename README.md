@@ -1,4 +1,4 @@
-[![Linkedin Badge](https://img.shields.io/badge/Almeida154-000?style=flat&labelColor=000&logo=linkedin&logoColor=white&link=https://instagram.com/ysd.davoid)](https://instagram.com/ysd.davoid)
+[![Linkedin Badge](https://img.shields.io/badge/Almeida154-000?style=flat&labelColor=000&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/Almeida154/)](https://www.linkedin.com/in/Almeida154/)
 <br>
 [![Instagram Badge](https://img.shields.io/badge/ysd.davoid-000?style=flat&labelColor=000&logo=instagram&logoColor=white&link=https://instagram.com/ysd.davoid)](https://instagram.com/ysd.davoid)
 <br>
