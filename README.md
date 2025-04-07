@@ -20,4 +20,4 @@ In 2023, I completed my degree in Internet Systems at FIAP, where I developed aw
 
 During this period, I participated in Hackathons, Programming Marathons and gained practical experience in Full-Stack development, Databases, AI, IoT, Computer Networks, Cloud Computing, and DevOps.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🇧🇷
+🇧🇷
