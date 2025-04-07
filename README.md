@@ -12,14 +12,12 @@
 
 ### Hi, i'm David 👋
 
-Passionate about technology and innovation, I have been developing, since 2019, year that I started the Systems Development course linked to High School, personal, academic and freelance projects as a **Full Stack** developer and UI/UX Designer. My main Stack is **JavaScript** and its frameworks for web and mobile.
+Full-Stack Developer passionate about technology and innovation, with technical and higher education in systems development.
 
-- ☕ Backend languages is based on **node.js**, **Java** and **PHP**. I prefer **REST** pattern, although I have some experience with **MVC** and **Laravel**.
+Born in São Paulo, I started programming during High School, graduating as a Systems Development Technician from ETEC Guaianazes in 2021.
 
-- 💄 About frontend, I've been developing using **React**, **React Native**, **Styled-Components**, **Sass** and more. I love to prototype with **Figma**.
+In 2023, I completed my degree in Internet Systems at FIAP, where I developed award-winning projects for companies such as BlueBenx, Copastur, and Ambipar.
 
-- 📦 I use to create my database using **MySql**, but I have already developed using **Firebase**.
-
-- 🌱 I'm currently learning about **Unit tests (Jest)**, **GraphQL**, **Redux** and **SSR (Next.js)**. I'm also enrolled in a university of technology with a full scholarship: **Fiap**.
+During this period, I participated in Hackathons, Programming Marathons and gained practical experience in Full-Stack development, Databases, AI, IoT, Computer Networks, Cloud Computing, and DevOps.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🇧🇷
